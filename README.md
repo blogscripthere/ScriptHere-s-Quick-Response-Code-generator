@@ -2,7 +2,7 @@
 
 ScriptHere's Quick Response Code generator
 
-You can find full code explanation here : http://scripthere.com/how-to-create-a-qr-codes-in-wordpress-to-enhance-your-experience/
+You can find full code explanation here :http://scripthere.com/how-to-create-qr-codes-in-wordpress-to-enhance-the-website-users-experience/
 
 ShortCode usage
 
